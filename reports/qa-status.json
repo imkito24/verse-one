@@ -1,0 +1,24 @@
+{
+  "automated": {
+    "pythonIntegrityTests": 5,
+    "javascriptTests": 26,
+    "failures": 0,
+    "everyImportedVerseCompared": 186503
+  },
+  "browserObserved": [
+    "English full-pack installation and checksum verification",
+    "English John 3:16-18 reference range",
+    "English quoted phrase search: 44 matches, 2.6 ms worker execution in that observed run",
+    "Malayalam installation and rendered chapter",
+    "Application shell reported cached"
+  ],
+  "notCompleted": [
+    "Physical iPhone and Android usability tests",
+    "390px frame visual inspection",
+    "Fresh browser restart with network disconnected",
+    "Storage quota exhaustion and interrupted-update browser tests",
+    "Independent publisher-signature authentication",
+    "Cross-translation verse mapping certification"
+  ],
+  "note": "Final browser recheck unavailable after the session interruption. Automated modern Malayalam alias test passes; browser confirmation of that correction remains pending."
+}

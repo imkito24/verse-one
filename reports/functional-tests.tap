@@ -1,0 +1,166 @@
+TAP version 13
+# Subtest: engwebp: checksum, every chapter, every reference and native aliases
+ok 1 - engwebp: checksum, every chapter, every reference and native aliases
+  ---
+  duration_ms: 392.099302
+  type: 'test'
+  ...
+# Subtest: engwebp: index agrees with full-corpus scan for 60 sampled tokens
+ok 2 - engwebp: index agrees with full-corpus scan for 60 sampled tokens
+  ---
+  duration_ms: 573.534481
+  type: 'test'
+  ...
+# Subtest: engwebp: range, invalid input and phrase precision
+ok 3 - engwebp: range, invalid input and phrase precision
+  ---
+  duration_ms: 9.781038
+  type: 'test'
+  ...
+# Subtest: engwebp: corrupt pack rejected
+ok 4 - engwebp: corrupt pack rejected
+  ---
+  duration_ms: 59.509906
+  type: 'test'
+  ...
+# Subtest: mal: checksum, every chapter, every reference and native aliases
+ok 5 - mal: checksum, every chapter, every reference and native aliases
+  ---
+  duration_ms: 276.518341
+  type: 'test'
+  ...
+# Subtest: mal: index agrees with full-corpus scan for 60 sampled tokens
+ok 6 - mal: index agrees with full-corpus scan for 60 sampled tokens
+  ---
+  duration_ms: 480.713949
+  type: 'test'
+  ...
+# Subtest: mal: range, invalid input and phrase precision
+ok 7 - mal: range, invalid input and phrase precision
+  ---
+  duration_ms: 0.485365
+  type: 'test'
+  ...
+# Subtest: mal: corrupt pack rejected
+ok 8 - mal: corrupt pack rejected
+  ---
+  duration_ms: 23.375235
+  type: 'test'
+  ...
+# Subtest: hin2017: checksum, every chapter, every reference and native aliases
+ok 9 - hin2017: checksum, every chapter, every reference and native aliases
+  ---
+  duration_ms: 149.246729
+  type: 'test'
+  ...
+# Subtest: hin2017: index agrees with full-corpus scan for 60 sampled tokens
+ok 10 - hin2017: index agrees with full-corpus scan for 60 sampled tokens
+  ---
+  duration_ms: 606.035788
+  type: 'test'
+  ...
+# Subtest: hin2017: range, invalid input and phrase precision
+ok 11 - hin2017: range, invalid input and phrase precision
+  ---
+  duration_ms: 8.056234
+  type: 'test'
+  ...
+# Subtest: hin2017: corrupt pack rejected
+ok 12 - hin2017: corrupt pack rejected
+  ---
+  duration_ms: 18.151236
+  type: 'test'
+  ...
+# Subtest: mar: checksum, every chapter, every reference and native aliases
+ok 13 - mar: checksum, every chapter, every reference and native aliases
+  ---
+  duration_ms: 298.469032
+  type: 'test'
+  ...
+# Subtest: mar: index agrees with full-corpus scan for 60 sampled tokens
+ok 14 - mar: index agrees with full-corpus scan for 60 sampled tokens
+  ---
+  duration_ms: 545.358385
+  type: 'test'
+  ...
+# Subtest: mar: range, invalid input and phrase precision
+ok 15 - mar: range, invalid input and phrase precision
+  ---
+  duration_ms: 1.379913
+  type: 'test'
+  ...
+# Subtest: mar: corrupt pack rejected
+ok 16 - mar: corrupt pack rejected
+  ---
+  duration_ms: 49.657845
+  type: 'test'
+  ...
+# Subtest: tam2017: checksum, every chapter, every reference and native aliases
+ok 17 - tam2017: checksum, every chapter, every reference and native aliases
+  ---
+  duration_ms: 248.292221
+  type: 'test'
+  ...
+# Subtest: tam2017: index agrees with full-corpus scan for 60 sampled tokens
+ok 18 - tam2017: index agrees with full-corpus scan for 60 sampled tokens
+  ---
+  duration_ms: 464.957261
+  type: 'test'
+  ...
+# Subtest: tam2017: range, invalid input and phrase precision
+ok 19 - tam2017: range, invalid input and phrase precision
+  ---
+  duration_ms: 0.248596
+  type: 'test'
+  ...
+# Subtest: tam2017: corrupt pack rejected
+ok 20 - tam2017: corrupt pack rejected
+  ---
+  duration_ms: 29.465031
+  type: 'test'
+  ...
+# Subtest: tel2017: checksum, every chapter, every reference and native aliases
+ok 21 - tel2017: checksum, every chapter, every reference and native aliases
+  ---
+  duration_ms: 174.327827
+  type: 'test'
+  ...
+# Subtest: tel2017: index agrees with full-corpus scan for 60 sampled tokens
+ok 22 - tel2017: index agrees with full-corpus scan for 60 sampled tokens
+  ---
+  duration_ms: 501.678056
+  type: 'test'
+  ...
+# Subtest: tel2017: range, invalid input and phrase precision
+ok 23 - tel2017: range, invalid input and phrase precision
+  ---
+  duration_ms: 0.347262
+  type: 'test'
+  ...
+# Subtest: tel2017: corrupt pack rejected
+ok 24 - tel2017: corrupt pack rejected
+  ---
+  duration_ms: 34.739426
+  type: 'test'
+  ...
+# Subtest: Verse bridges retain full source passage
+ok 25 - Verse bridges retain full source passage
+  ---
+  duration_ms: 106.79163
+  type: 'test'
+  ...
+# Subtest: Modern Malayalam chillu letters resolve source aliases
+ok 26 - Modern Malayalam chillu letters resolve source aliases
+  ---
+  duration_ms: 104.561233
+  type: 'test'
+  ...
+1..26
+# tests 26
+# suites 0
+# pass 26
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 6694.306643

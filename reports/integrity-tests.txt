@@ -1,0 +1,10 @@
+test_all_shipped_passages_against_usfm (__main__.SourceIntegrity.test_all_shipped_passages_against_usfm) ... ok
+test_locked_source_archives (__main__.SourceIntegrity.test_locked_source_archives) ... ok
+test_negative_duplicate_label (__main__.SourceIntegrity.test_negative_duplicate_label) ... ok
+test_negative_unknown_xml (__main__.SourceIntegrity.test_negative_unknown_xml) ... ok
+test_no_unexplained_differences (__main__.SourceIntegrity.test_no_unexplained_differences) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 3.907s
+
+OK

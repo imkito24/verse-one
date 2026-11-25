@@ -1,0 +1,41 @@
+{
+  "environment": "Node local runtime; not a phone benchmark",
+  "metrics": [
+    {
+      "id": "engwebp",
+      "p95NodeSearchMs": 0.08124100000000567,
+      "maxNodeSearchMs": 0.5428749999999809,
+      "bytes": 9903307
+    },
+    {
+      "id": "mal",
+      "p95NodeSearchMs": 0.031035999999971864,
+      "maxNodeSearchMs": 0.20351199999998926,
+      "bytes": 19649720
+    },
+    {
+      "id": "hin2017",
+      "p95NodeSearchMs": 0.01617399999997815,
+      "maxNodeSearchMs": 0.10665799999992487,
+      "bytes": 17443212
+    },
+    {
+      "id": "mar",
+      "p95NodeSearchMs": 0.016054000000053747,
+      "maxNodeSearchMs": 0.032728000000020074,
+      "bytes": 17738710
+    },
+    {
+      "id": "tam2017",
+      "p95NodeSearchMs": 0.026990000000068903,
+      "maxNodeSearchMs": 0.0447359999998298,
+      "bytes": 21316422
+    },
+    {
+      "id": "tel2017",
+      "p95NodeSearchMs": 0.01577399999996487,
+      "maxNodeSearchMs": 0.04446600000005674,
+      "bytes": 17577964
+    }
+  ]
+}
