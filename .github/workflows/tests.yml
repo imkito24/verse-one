@@ -30,4 +30,3 @@ jobs:
 
       - name: Test Scripture search
         run: node --test tests/core.test.mjs
-
